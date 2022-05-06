@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @silentninjabee
-- 📫 How to reach me ... don't 
+- 👋 Hi, I’m @silentninjabee... Audio Engineering (Technical Production)/iOS and Android tweak development
 
 <!---
 silentninjabee/silentninjabee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
